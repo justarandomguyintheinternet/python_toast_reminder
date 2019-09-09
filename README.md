@@ -2,6 +2,6 @@
 A simple reminder that works purely with windows toast to keep it simple, fast and easy to use
 
 TODO:
--Add confic file for custom Hotkeys
+-Add confic file for custom Hotkeys \n
 -Add suport for no time input, instead take a standard delay defined in the config
 -Clean up the Code
